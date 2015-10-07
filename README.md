@@ -14,7 +14,7 @@ Please see: <a href="http://www.sitena.me/">www.sitena.me</a> for examples of my
 
 In order to use this library with Arduino you will need to download the FN605 directory and save it to the "libraries" in your Arduino installation. Once installed you can look at the examples or start using it by adding:
 
-#include <FN605.h>
+```#include <FN605.h>```
 
 to your Arduino sketch.
 

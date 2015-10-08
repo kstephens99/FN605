@@ -2,7 +2,7 @@
 
 Arduino library for Flyron Technology FN605-M01
 
-This is an Arduino library for use with the Flyron Technology FN605-M01 Flash Memory Based Mini Embedded MP3 Sound Module ( http://flyrontech.com/eproducts/104.html )
+This is an Arduino library for use with the Flyron Technology FN605-M01 Flash Memory Based Mini Embedded MP3 Sound Module ( http://flyrontech.com/eproducts/104.html ). If you are interested in purchasing contact Kevin Xu <kevin.xu@flyrontech.com>
 
 This library uses one pin of the Arduino to control the FN605 via one-line serial control mode. You can also use an optional second pin of the Arduino to monitor the busy status of the module. The library provides methods to play current file, play a specific file number, play next, play previous, play random loop, play single loop, play loop, cancel loop play, pause, stop, mute and volume control.
 

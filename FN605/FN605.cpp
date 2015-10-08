@@ -195,5 +195,5 @@ void FN605::sndCmd(uint16_t sndCmdCode, boolean ifNotBusy)
     sndCmdCode <<=1;
   } 
   digitalWrite(_dataPin,HIGH);
-  delay(1000);
+  delay(40);
 }
